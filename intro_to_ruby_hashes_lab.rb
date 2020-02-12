@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+    {Joseph: "Joe", Christopher: "Chris", Margaret: "MagMag"}
 end
 
 def pioneer
